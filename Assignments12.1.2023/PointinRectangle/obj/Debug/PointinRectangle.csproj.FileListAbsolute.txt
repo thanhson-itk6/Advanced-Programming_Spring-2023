@@ -1,0 +1,15 @@
+C:\TAM_C#\Demo_Slot456\PointinRectangle\bin\Debug\PointinRectangle.exe.config
+C:\TAM_C#\Demo_Slot456\PointinRectangle\bin\Debug\PointinRectangle.exe
+C:\TAM_C#\Demo_Slot456\PointinRectangle\bin\Debug\PointinRectangle.pdb
+C:\TAM_C#\Demo_Slot456\PointinRectangle\obj\Debug\PointinRectangle.csprojAssemblyReference.cache
+C:\TAM_C#\Demo_Slot456\PointinRectangle\obj\Debug\PointinRectangle.csproj.CoreCompileInputs.cache
+C:\TAM_C#\Demo_Slot456\PointinRectangle\obj\Debug\PointinRectangle.exe
+C:\TAM_C#\Demo_Slot456\PointinRectangle\obj\Debug\PointinRectangle.pdb
+H:\My Drive\THINH GIANG\GREENWICH\ADVANCED PROGRAMMING\SPRING 2022\TEACHING PLAN\SLOT456\Demo_Slot456\Demo_Slot456\PointinRectangle\bin\Debug\PointinRectangle.exe.config
+H:\My Drive\THINH GIANG\GREENWICH\ADVANCED PROGRAMMING\SPRING 2022\TEACHING PLAN\SLOT456\Demo_Slot456\Demo_Slot456\PointinRectangle\bin\Debug\PointinRectangle.exe
+H:\My Drive\THINH GIANG\GREENWICH\ADVANCED PROGRAMMING\SPRING 2022\TEACHING PLAN\SLOT456\Demo_Slot456\Demo_Slot456\PointinRectangle\bin\Debug\PointinRectangle.pdb
+H:\My Drive\THINH GIANG\GREENWICH\ADVANCED PROGRAMMING\SPRING 2022\TEACHING PLAN\SLOT456\Demo_Slot456\Demo_Slot456\PointinRectangle\obj\Debug\PointinRectangle.csproj.AssemblyReference.cache
+H:\My Drive\THINH GIANG\GREENWICH\ADVANCED PROGRAMMING\SPRING 2022\TEACHING PLAN\SLOT456\Demo_Slot456\Demo_Slot456\PointinRectangle\obj\Debug\PointinRectangle.csproj.SuggestedBindingRedirects.cache
+H:\My Drive\THINH GIANG\GREENWICH\ADVANCED PROGRAMMING\SPRING 2022\TEACHING PLAN\SLOT456\Demo_Slot456\Demo_Slot456\PointinRectangle\obj\Debug\PointinRectangle.csproj.CoreCompileInputs.cache
+H:\My Drive\THINH GIANG\GREENWICH\ADVANCED PROGRAMMING\SPRING 2022\TEACHING PLAN\SLOT456\Demo_Slot456\Demo_Slot456\PointinRectangle\obj\Debug\PointinRectangle.exe
+H:\My Drive\THINH GIANG\GREENWICH\ADVANCED PROGRAMMING\SPRING 2022\TEACHING PLAN\SLOT456\Demo_Slot456\Demo_Slot456\PointinRectangle\obj\Debug\PointinRectangle.pdb

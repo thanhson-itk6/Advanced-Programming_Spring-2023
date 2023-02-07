@@ -1,0 +1,7 @@
+C:\TAM_C#\Demo_Slot456\StudentSystem\bin\Debug\StudentSystem.exe.config
+C:\TAM_C#\Demo_Slot456\StudentSystem\bin\Debug\StudentSystem.exe
+C:\TAM_C#\Demo_Slot456\StudentSystem\bin\Debug\StudentSystem.pdb
+C:\TAM_C#\Demo_Slot456\StudentSystem\obj\Debug\StudentSystem.csprojAssemblyReference.cache
+C:\TAM_C#\Demo_Slot456\StudentSystem\obj\Debug\StudentSystem.csproj.CoreCompileInputs.cache
+C:\TAM_C#\Demo_Slot456\StudentSystem\obj\Debug\StudentSystem.exe
+C:\TAM_C#\Demo_Slot456\StudentSystem\obj\Debug\StudentSystem.pdb
