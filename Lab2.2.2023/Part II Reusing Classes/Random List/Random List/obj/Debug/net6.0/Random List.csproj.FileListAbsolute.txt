@@ -1,0 +1,15 @@
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Random List\Random List\bin\Debug\net6.0\Random List.exe
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Random List\Random List\bin\Debug\net6.0\Random List.deps.json
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Random List\Random List\bin\Debug\net6.0\Random List.runtimeconfig.json
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Random List\Random List\bin\Debug\net6.0\Random List.dll
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Random List\Random List\bin\Debug\net6.0\Random List.pdb
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Random List\Random List\obj\Debug\net6.0\Random List.csproj.AssemblyReference.cache
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Random List\Random List\obj\Debug\net6.0\Random List.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Random List\Random List\obj\Debug\net6.0\Random List.AssemblyInfoInputs.cache
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Random List\Random List\obj\Debug\net6.0\Random List.AssemblyInfo.cs
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Random List\Random List\obj\Debug\net6.0\Random List.csproj.CoreCompileInputs.cache
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Random List\Random List\obj\Debug\net6.0\Random List.dll
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Random List\Random List\obj\Debug\net6.0\refint\Random List.dll
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Random List\Random List\obj\Debug\net6.0\Random List.pdb
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Random List\Random List\obj\Debug\net6.0\Random List.genruntimeconfig.cache
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Random List\Random List\obj\Debug\net6.0\ref\Random List.dll

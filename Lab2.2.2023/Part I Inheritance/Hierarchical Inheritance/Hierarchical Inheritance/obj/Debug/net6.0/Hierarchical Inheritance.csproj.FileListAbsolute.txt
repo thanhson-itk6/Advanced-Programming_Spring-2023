@@ -1,0 +1,15 @@
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Hierarchical Inheritance\bin\Debug\net6.0\Hierarchical Inheritance.exe
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Hierarchical Inheritance\bin\Debug\net6.0\Hierarchical Inheritance.deps.json
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Hierarchical Inheritance\bin\Debug\net6.0\Hierarchical Inheritance.runtimeconfig.json
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Hierarchical Inheritance\bin\Debug\net6.0\Hierarchical Inheritance.dll
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Hierarchical Inheritance\bin\Debug\net6.0\Hierarchical Inheritance.pdb
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.csproj.AssemblyReference.cache
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.AssemblyInfoInputs.cache
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.AssemblyInfo.cs
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.csproj.CoreCompileInputs.cache
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.dll
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\net6.0\refint\Hierarchical Inheritance.dll
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.pdb
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.genruntimeconfig.cache
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\net6.0\ref\Hierarchical Inheritance.dll

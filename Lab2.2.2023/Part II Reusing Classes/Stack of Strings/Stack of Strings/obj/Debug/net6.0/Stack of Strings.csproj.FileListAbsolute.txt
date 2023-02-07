@@ -1,0 +1,15 @@
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Stack of Strings\Stack of Strings\bin\Debug\net6.0\Stack of Strings.exe
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Stack of Strings\Stack of Strings\bin\Debug\net6.0\Stack of Strings.deps.json
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Stack of Strings\Stack of Strings\bin\Debug\net6.0\Stack of Strings.runtimeconfig.json
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Stack of Strings\Stack of Strings\bin\Debug\net6.0\Stack of Strings.dll
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Stack of Strings\Stack of Strings\bin\Debug\net6.0\Stack of Strings.pdb
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Stack of Strings\Stack of Strings\obj\Debug\net6.0\Stack of Strings.csproj.AssemblyReference.cache
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Stack of Strings\Stack of Strings\obj\Debug\net6.0\Stack of Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Stack of Strings\Stack of Strings\obj\Debug\net6.0\Stack of Strings.AssemblyInfoInputs.cache
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Stack of Strings\Stack of Strings\obj\Debug\net6.0\Stack of Strings.AssemblyInfo.cs
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Stack of Strings\Stack of Strings\obj\Debug\net6.0\Stack of Strings.csproj.CoreCompileInputs.cache
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Stack of Strings\Stack of Strings\obj\Debug\net6.0\Stack of Strings.dll
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Stack of Strings\Stack of Strings\obj\Debug\net6.0\refint\Stack of Strings.dll
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Stack of Strings\Stack of Strings\obj\Debug\net6.0\Stack of Strings.pdb
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Stack of Strings\Stack of Strings\obj\Debug\net6.0\Stack of Strings.genruntimeconfig.cache
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part II Reusing Classes\Stack of Strings\Stack of Strings\obj\Debug\net6.0\ref\Stack of Strings.dll
