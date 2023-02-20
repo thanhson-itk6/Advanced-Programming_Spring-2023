@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GreenWich\\Avanced Programming\\Lab\\Lab2.2.2023\\Farm 2\\Farm 2\\Farm 2.csproj": {}
+    "D:\\GreenWich\\Avanced Programming\\Lab\\Lab2.2.2023\\Part I Inheritance\\Hierarchical Inheritance\\Multiple Inheritance\\Farm 2\\Farm 2.csproj": {}
   },
   "projects": {
-    "D:\\GreenWich\\Avanced Programming\\Lab\\Lab2.2.2023\\Farm 2\\Farm 2\\Farm 2.csproj": {
+    "D:\\GreenWich\\Avanced Programming\\Lab\\Lab2.2.2023\\Part I Inheritance\\Hierarchical Inheritance\\Multiple Inheritance\\Farm 2\\Farm 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GreenWich\\Avanced Programming\\Lab\\Lab2.2.2023\\Farm 2\\Farm 2\\Farm 2.csproj",
+        "projectUniqueName": "D:\\GreenWich\\Avanced Programming\\Lab\\Lab2.2.2023\\Part I Inheritance\\Hierarchical Inheritance\\Multiple Inheritance\\Farm 2\\Farm 2.csproj",
         "projectName": "Farm 2",
-        "projectPath": "D:\\GreenWich\\Avanced Programming\\Lab\\Lab2.2.2023\\Farm 2\\Farm 2\\Farm 2.csproj",
+        "projectPath": "D:\\GreenWich\\Avanced Programming\\Lab\\Lab2.2.2023\\Part I Inheritance\\Hierarchical Inheritance\\Multiple Inheritance\\Farm 2\\Farm 2.csproj",
         "packagesPath": "C:\\Users\\duong\\.nuget\\packages\\",
-        "outputPath": "D:\\GreenWich\\Avanced Programming\\Lab\\Lab2.2.2023\\Farm 2\\Farm 2\\obj\\",
+        "outputPath": "D:\\GreenWich\\Avanced Programming\\Lab\\Lab2.2.2023\\Part I Inheritance\\Hierarchical Inheritance\\Multiple Inheritance\\Farm 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\duong\\AppData\\Roaming\\NuGet\\NuGet.Config",

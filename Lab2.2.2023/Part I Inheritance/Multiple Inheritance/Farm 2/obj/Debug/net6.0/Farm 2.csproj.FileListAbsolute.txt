@@ -13,3 +13,18 @@ D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Farm 2\Farm 2\obj\Debug\net6.0\
 D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Farm 2\Farm 2\obj\Debug\net6.0\Farm 2.pdb
 D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Farm 2\Farm 2\obj\Debug\net6.0\Farm 2.genruntimeconfig.cache
 D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Farm 2\Farm 2\obj\Debug\net6.0\ref\Farm 2.dll
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Multiple Inheritance\Farm 2\bin\Debug\net6.0\Farm 2.exe
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Multiple Inheritance\Farm 2\bin\Debug\net6.0\Farm 2.deps.json
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Multiple Inheritance\Farm 2\bin\Debug\net6.0\Farm 2.runtimeconfig.json
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Multiple Inheritance\Farm 2\bin\Debug\net6.0\Farm 2.dll
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Multiple Inheritance\Farm 2\bin\Debug\net6.0\Farm 2.pdb
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Multiple Inheritance\Farm 2\obj\Debug\net6.0\Farm 2.csproj.AssemblyReference.cache
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Multiple Inheritance\Farm 2\obj\Debug\net6.0\Farm 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Multiple Inheritance\Farm 2\obj\Debug\net6.0\Farm 2.AssemblyInfoInputs.cache
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Multiple Inheritance\Farm 2\obj\Debug\net6.0\Farm 2.AssemblyInfo.cs
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Multiple Inheritance\Farm 2\obj\Debug\net6.0\Farm 2.csproj.CoreCompileInputs.cache
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Multiple Inheritance\Farm 2\obj\Debug\net6.0\Farm 2.dll
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Multiple Inheritance\Farm 2\obj\Debug\net6.0\refint\Farm 2.dll
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Multiple Inheritance\Farm 2\obj\Debug\net6.0\Farm 2.pdb
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Multiple Inheritance\Farm 2\obj\Debug\net6.0\Farm 2.genruntimeconfig.cache
+D:\GreenWich\Avanced Programming\Lab\Lab2.2.2023\Part I Inheritance\Hierarchical Inheritance\Multiple Inheritance\Farm 2\obj\Debug\net6.0\ref\Farm 2.dll
